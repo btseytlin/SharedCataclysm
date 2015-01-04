@@ -1,0 +1,646 @@
+# version 22
+{
+    "turn" : 4846,
+    "calendar_start" : 4800,
+    "last_target" : -1,
+    "run_mode" : 1,
+    "mostseen" : 0,
+    "nextspawn" : 4800,
+    "levx" : 170,
+    "levy" : 51,
+    "levz" : -1,
+    "om_x" : 0,
+    "om_y" : 0,
+    "grscent" : "0 7196 3 1 6 1 11 1 16 1 20 1 23 2 22 1 18 1 0 122 2 1 5 1 10 1 17 1 23 1 28 1 31 1 32 1 30 1 26 1 0 121 1 1 4 1 9 1 17 1 25 1 33 1 39 1 43 1 44 1 41 1 36 1 0 121 3 1 7 1 14 1 24 1 35 1 45 1 53 1 56 2 52 1 46 1 0 121 5 1 10 1 20 1 33 1 46 1 58 1 65 1 68 1 66 1 61 1 54 1 0 121 6 1 13 1 26 1 42 1 58 1 71 1 77 1 76 1 72 1 65 1 56 1 65 1 33 1 28 1 0 118 9 1 20 1 38 1 58 1 75 1 86 1 87 1 82 1 73 1 63 1 54 1 44 1 33 1 28 1 0 118 25 1 47 1 69 1 89 1 100 1 104 1 98 1 85 1 70 1 57 1 47 1 0 121 105 1 130 1 114 1 124 1 127 1 122 1 106 1 85 1 64 1 47 1 36 1 0 121 266 1 157 1 140 1 148 1 144 1 133 1 109 1 80 1 55 1 37 1 26 1 0 121 108 1 147 1 139 1 144 1 141 1 129 1 102 1 70 1 44 1 27 1 18 1 0 8899",
+    "active_monsters" : [
+        
+    ],
+    "stair_monsters" : [
+        
+    ],
+    "kills" : {
+        
+    },
+    "player" : {
+        "str_cur" : 9,
+        "str_max" : 9,
+        "dex_cur" : 6,
+        "dex_max" : 6,
+        "int_cur" : 10,
+        "int_max" : 10,
+        "per_cur" : 12,
+        "per_max" : 12,
+        "moves" : 5,
+        "pain" : 0,
+        "effects" : {
+            
+        },
+        "values" : {
+            
+        },
+        "str_bonus" : 0,
+        "dex_bonus" : 0,
+        "per_bonus" : 0,
+        "int_bonus" : 0,
+        "healthy" : 0,
+        "healthy_mod" : 0,
+        "blocks_left" : 1,
+        "dodges_left" : 1,
+        "num_blocks_bonus" : 0,
+        "num_dodges_bonus" : 0,
+        "armor_bash_bonus" : 0,
+        "armor_cut_bonus" : 0,
+        "speed" : 100,
+        "speed_bonus" : 0,
+        "dodge_bonus" : -4,
+        "block_bonus" : 0,
+        "hit_bonus" : -4,
+        "bash_bonus" : 0,
+        "cut_bonus" : 0,
+        "bash_mult" : 1.000000e+000,
+        "cut_mult" : 1.000000e+000,
+        "melee_quiet" : false,
+        "grab_resist" : 0,
+        "throw_resist" : 0,
+        "posx" : 63,
+        "posy" : 66,
+        "hunger" : 1,
+        "thirst" : 1,
+        "fatigue" : 1,
+        "stim" : 0,
+        "pkill" : 0,
+        "radiation" : 0,
+        "scent" : 500,
+        "body_wetness" : [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "underwater" : false,
+        "oxygen" : 0,
+        "male" : false,
+        "cash" : 0,
+        "recoil" : 0,
+        "in_vehicle" : false,
+        "id" : 3,
+        "hp_cur" : [
+            87,
+            87,
+            87,
+            87,
+            87,
+            87
+        ],
+        "hp_max" : [
+            87,
+            87,
+            87,
+            87,
+            87,
+            87
+        ],
+        "power_level" : 0,
+        "max_power_level" : 0,
+        "traits" : [
+            "STRONGSTOMACH",
+            "POISRESIST",
+            "BADKNEES"
+        ],
+        "skills" : {
+            "barter" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "computer" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "carpentry" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "cooking" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "driving" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "electronics" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "fabrication" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "firstaid" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "mechanics" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "speech" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "survival" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "swimming" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "tailor" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "traps" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "archery" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "bashing" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "cutting" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "dodge" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "gun" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "launcher" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "melee" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "stabbing" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "throw" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "unarmed" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "pistol" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "rifle" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "shotgun" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "smg" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            }
+        },
+        "ma_styles" : [
+            
+        ],
+        "illness" : [
+            
+        ],
+        "addictions" : [
+            
+        ],
+        "my_bionics" : [
+            
+        ],
+        "known_traps" : [
+            
+        ],
+        "worn" : [
+            {
+                "invlet" : 97,
+                "typeid" : "bra",
+                "bday" : 0,
+                "covers" : "0000000000001",
+                "item_tags" : [
+                    "FIT"
+                ],
+                "components" : [
+                    
+                ]
+            },
+            {
+                "invlet" : 98,
+                "typeid" : "panties",
+                "bday" : 0,
+                "covers" : "0001100000000",
+                "item_tags" : [
+                    "FIT"
+                ],
+                "components" : [
+                    
+                ]
+            },
+            {
+                "invlet" : 99,
+                "typeid" : "jeans",
+                "bday" : 0,
+                "covers" : "0001100000000",
+                "item_tags" : [
+                    "FIT"
+                ],
+                "components" : [
+                    
+                ]
+            },
+            {
+                "invlet" : 100,
+                "typeid" : "longshirt",
+                "bday" : 0,
+                "covers" : "0000000110001",
+                "item_tags" : [
+                    "FIT"
+                ],
+                "components" : [
+                    
+                ]
+            },
+            {
+                "invlet" : 101,
+                "typeid" : "socks",
+                "bday" : 0,
+                "covers" : "0110000000000",
+                "item_tags" : [
+                    "FIT"
+                ],
+                "components" : [
+                    
+                ]
+            },
+            {
+                "invlet" : 102,
+                "typeid" : "coat_winter",
+                "bday" : 0,
+                "covers" : "0000000110001",
+                "item_tags" : [
+                    "FIT"
+                ],
+                "components" : [
+                    
+                ]
+            },
+            {
+                "invlet" : 103,
+                "typeid" : "boots_winter",
+                "bday" : 0,
+                "covers" : "0110000000000",
+                "item_tags" : [
+                    "FIT"
+                ],
+                "components" : [
+                    
+                ]
+            },
+            {
+                "invlet" : 104,
+                "typeid" : "knit_scarf",
+                "bday" : 0,
+                "covers" : "0000000001000",
+                "components" : [
+                    
+                ]
+            },
+            {
+                "invlet" : 108,
+                "typeid" : "jacket_evac",
+                "bday" : 0,
+                "covers" : "0000000110001",
+                "components" : [
+                    
+                ]
+            }
+        ],
+        "inv" : [
+            {
+                "invlet" : 107,
+                "typeid" : "matches",
+                "bday" : 0,
+                "charges" : 20,
+                "components" : [
+                    
+                ]
+            },
+            {
+                "invlet" : 105,
+                "typeid" : "pockknife",
+                "bday" : 0,
+                "components" : [
+                    
+                ]
+            },
+            {
+                "invlet" : 106,
+                "typeid" : "bottle_plastic",
+                "bday" : 0,
+                "contents" : [
+                    {
+                        "invlet" : 0,
+                        "typeid" : "water_clean",
+                        "bday" : 0,
+                        "charges" : 2,
+                        "active" : true,
+                        "last_rot_check" : 4844,
+                        "components" : [
+                            
+                        ]
+                    }
+                ],
+                "components" : [
+                    
+                ]
+            }
+        ],
+        "profession" : "unemployed",
+        "scenario" : "evacuee",
+        "driving_recoil" : 0,
+        "controlling_vehicle" : false,
+        "grab_point" : [
+            0,
+            0
+        ],
+        "grab_type" : "OBJECT_NONE",
+        "focus_pool" : 100,
+        "style_selected" : "style_none",
+        "stomach_food" : 0,
+        "stomach_water" : 0,
+        "activity" : {
+            "type" : 0,
+            "moves_left" : 0,
+            "index" : -1,
+            "position" : -2147483648,
+            "name" : "",
+            "placement" : [
+                -1,
+                -1
+            ],
+            "values" : [
+                
+            ],
+            "str_values" : [
+                
+            ],
+            "auto_resume" : false
+        },
+        "backlog" : [
+            
+        ],
+        "mutations" : [
+            "STRONGSTOMACH",
+            "POISRESIST",
+            "BADKNEES"
+        ],
+        "mutation_keys" : {
+            "BADKNEES" : 98,
+            "POISRESIST" : 99,
+            "STRONGSTOMACH" : 100
+        },
+        "temp_cur" : [
+            5155,
+            4815,
+            5000,
+            4954,
+            5120,
+            5120,
+            4815,
+            4815,
+            4816,
+            4816,
+            5092,
+            5092
+        ],
+        "temp_conv" : [
+            7114,
+            3022,
+            5000,
+            4827,
+            6932,
+            6932,
+            3022,
+            3022,
+            3256,
+            3256,
+            6299,
+            6299
+        ],
+        "frostbite_timer" : [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "learned_recipes" : [
+            
+        ],
+        "items_identified" : [
+            
+        ],
+        "morale" : [
+            
+        ],
+        "active_mission" : -1,
+        "active_missions" : [
+            
+        ],
+        "completed_missions" : [
+            
+        ],
+        "failed_missions" : [
+            
+        ],
+        "player_stats" : {
+            "squares_walked" : 35,
+            "damage_taken" : 0,
+            "damage_healed" : 0,
+            "headshots" : 0
+        },
+        "invcache" : [
+            {
+                "bottle_plastic" : [
+                    106
+                ]
+            },
+            {
+                "jacket_evac" : [
+                    108
+                ]
+            },
+            {
+                "matches" : [
+                    107
+                ]
+            },
+            {
+                "pockknife" : [
+                    105
+                ]
+            }
+        ]
+    },
+    "player_messages" : {
+        "messages" : [
+            {
+                "turn" : 4805,
+                "message" : "Moving past this bench is slow!",
+                "count" : 3,
+                "type" : 3
+            },
+            {
+                "turn" : 4809,
+                "message" : "That is a locker.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4810,
+                "message" : "You pick up: 1 emergency jacket",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4811,
+                "message" : "You put on your emergency jacket.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4811,
+                "message" : "Your left arm are very encumbered! Melee and ranged combat is hampered.",
+                "count" : 1,
+                "type" : 3
+            },
+            {
+                "turn" : 4811,
+                "message" : "Your right arm are very encumbered! Melee and ranged combat is hampered.",
+                "count" : 1,
+                "type" : 3
+            },
+            {
+                "turn" : 4814,
+                "message" : "Never mind.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4814,
+                "message" : "Invalid selection.",
+                "count" : 1,
+                "type" : 4
+            },
+            {
+                "turn" : 4828,
+                "message" : "You see here 1 blanket.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4833,
+                "message" : "You see here 1 tent.",
+                "count" : 1,
+                "type" : 5
+            }
+        ],
+        "curmes" : 4846
+    }
+}
