@@ -1,4 +1,4 @@
-set commitmsg= "save changes"
+set commitmsg= save changes
 set cataPath = C:\games\Cataclysm\save\SharedCataclysm
 
 cd %cataPath%
