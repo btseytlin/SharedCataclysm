@@ -111,9 +111,9 @@
         "power_level" : 0,
         "max_power_level" : 0,
         "traits" : [
-            "STRONGSTOMACH",
+            "BADKNEES",
             "POISRESIST",
-            "BADKNEES"
+            "STRONGSTOMACH"
         ],
         "skills" : {
             "barter" : {
@@ -479,9 +479,9 @@
             
         ],
         "mutations" : [
-            "STRONGSTOMACH",
+            "BADKNEES",
             "POISRESIST",
-            "BADKNEES"
+            "STRONGSTOMACH"
         ],
         "mutation_keys" : {
             "BADKNEES" : 98,
