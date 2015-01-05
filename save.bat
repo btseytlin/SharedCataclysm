@@ -6,3 +6,5 @@ git add *.map
 git add *.0.0
 git commit -m "%uname%"
 git push -u origin master
+
+pause
