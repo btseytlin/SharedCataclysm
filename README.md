@@ -4,7 +4,6 @@ Public world for Cataclysm:Dark Days Ahead.
 ===============
 
 
-
 The world is created with all defaults except for item spawn being 1.2
 
 To play (for win):
