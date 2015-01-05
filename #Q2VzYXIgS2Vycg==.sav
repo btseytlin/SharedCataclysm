@@ -1,9 +1,9 @@
 # version 22
 {
-    "turn" : 6940,
+    "turn" : 6944,
     "calendar_start" : 4800,
     "last_target" : -1,
-    "run_mode" : 0,
+    "run_mode" : 1,
     "mostseen" : 0,
     "nextspawn" : 6921,
     "levx" : 41,
@@ -11,7 +11,7 @@
     "levz" : 0,
     "om_x" : 0,
     "om_y" : 0,
-    "grscent" : "0 8120 6 1 57 2 0 130 107 1 254 1 23 1 0 6 1 3 0 120 166 1 211 1 0 6 1 1 2 3 1 2 0 118 160 1 171 1 0 6 3 4 2 2 1 2 0 116 148 1 154 1 126 1 59 1 21 1 8 1 4 6 3 2 2 1 1 1 0 117 145 1 118 1 59 1 21 1 8 1 4 3 5 2 4 2 3 1 2 1 1 1 0 114 66 1 96 1 133 1 141 1 0 6 4 1 5 3 4 2 2 1 1 1 0 114 76 1 103 1 130 1 138 1 0 1 7 2 5 1 2 1 0 1 4 5 3 1 2 1 1 1 0 114 67 1 95 1 121 1 124 1 0 1 12 1 11 1 8 1 4 1 0 1 3 1 4 3 3 2 2 1 1 1 0 117 94 1 0 1 24 1 16 1 10 1 6 1 0 1 2 1 3 4 2 1 1 2 0 114 40 1 52 1 69 1 71 1 55 1 28 1 20 1 12 1 7 1 0 1 1 1 2 4 1 2 0 115 43 1 52 1 59 1 60 1 0 1 29 1 19 1 11 1 6 1 0 2 1 4 0 117 37 1 45 1 46 1 39 1 0 131 20 1 12 1 1 1 0 128 3 1 6 1 0 1 1 1 0 7451",
+    "grscent" : "0 8119 5 1 43 1 120 1 126 1 0 1 1 1 0 126 5 1 0 1 180 1 299 1 62 1 1 1 0 128 242 1 268 1 0 1 1 1 0 128 209 2 0 6 1 4 0 120 161 1 157 1 122 1 61 1 28 1 12 1 4 1 2 1 1 1 2 3 1 2 0 119 122 1 101 1 61 1 28 1 12 1 4 1 2 6 1 1 0 116 64 1 81 1 99 1 101 1 0 6 2 2 3 1 2 2 1 2 0 115 71 1 85 1 97 1 96 1 0 1 6 2 5 1 2 1 0 1 2 5 1 1 0 116 63 1 79 1 88 1 85 1 0 1 10 1 9 1 7 1 4 1 0 1 1 1 2 3 1 2 0 119 64 1 0 1 18 1 12 1 9 1 6 1 0 2 1 4 0 117 32 1 40 1 49 2 38 1 20 1 15 1 10 1 7 1 0 123 35 1 41 1 44 1 43 1 0 1 21 1 15 1 9 1 6 1 0 123 31 1 36 2 29 1 0 131 16 1 10 1 1 1 0 128 3 1 5 1 0 1 1 1 0 7451",
     "active_monsters" : [
         {
             "str_cur" : 0,
@@ -22,7 +22,7 @@
             "int_max" : 0,
             "per_cur" : 0,
             "per_max" : 0,
-            "moves" : -80,
+            "moves" : -60,
             "pain" : 0,
             "effects" : {
                 
@@ -55,7 +55,7 @@
             "grab_resist" : 0,
             "throw_resist" : 0,
             "typeid" : "mon_zombie_fat",
-            "posx" : 45,
+            "posx" : 44,
             "posy" : 34,
             "wandx" : -1,
             "wandy" : -1,
@@ -92,7 +92,7 @@
             "int_max" : 0,
             "per_cur" : 0,
             "per_max" : 0,
-            "moves" : -140,
+            "moves" : -20,
             "pain" : 0,
             "effects" : {
                 
@@ -162,7 +162,7 @@
             "int_max" : 0,
             "per_cur" : 0,
             "per_max" : 0,
-            "moves" : -170,
+            "moves" : -90,
             "pain" : 0,
             "effects" : {
                 
@@ -197,9 +197,9 @@
             "typeid" : "mon_zombie",
             "posx" : 102,
             "posy" : 46,
-            "wandx" : 100,
-            "wandy" : 44,
-            "wandf" : 10,
+            "wandx" : 101,
+            "wandy" : 46,
+            "wandf" : 16,
             "hp" : 80,
             "sp_timeout" : [
                 0
@@ -232,7 +232,7 @@
             "int_max" : 0,
             "per_cur" : 0,
             "per_max" : 0,
-            "moves" : -130,
+            "moves" : -50,
             "pain" : 0,
             "effects" : {
                 
@@ -267,9 +267,9 @@
             "typeid" : "mon_zombie",
             "posx" : 100,
             "posy" : 45,
-            "wandx" : 102,
-            "wandy" : 46,
-            "wandf" : 10,
+            "wandx" : 100,
+            "wandy" : 47,
+            "wandf" : 17,
             "hp" : 80,
             "sp_timeout" : [
                 0
@@ -302,7 +302,7 @@
             "int_max" : 0,
             "per_cur" : 0,
             "per_max" : 0,
-            "moves" : -90,
+            "moves" : -85,
             "pain" : 0,
             "effects" : {
                 
@@ -335,7 +335,7 @@
             "grab_resist" : 0,
             "throw_resist" : 0,
             "typeid" : "mon_zombie",
-            "posx" : 64,
+            "posx" : 63,
             "posy" : 24,
             "wandx" : 67,
             "wandy" : 18,
@@ -351,76 +351,6 @@
             "dead" : false,
             "anger" : 100,
             "morale" : 100,
-            "hallucination" : false,
-            "stairscount" : 1,
-            "plans" : [
-                
-            ],
-            "ammo" : {
-                
-            },
-            "inv" : [
-                
-            ]
-        },
-        {
-            "str_cur" : 0,
-            "str_max" : 0,
-            "dex_cur" : 0,
-            "dex_max" : 0,
-            "int_cur" : 0,
-            "int_max" : 0,
-            "per_cur" : 0,
-            "per_max" : 0,
-            "moves" : -140,
-            "pain" : 0,
-            "effects" : {
-                
-            },
-            "values" : {
-                
-            },
-            "str_bonus" : 0,
-            "dex_bonus" : 0,
-            "per_bonus" : 0,
-            "int_bonus" : 0,
-            "healthy" : 0,
-            "healthy_mod" : 0,
-            "blocks_left" : 1,
-            "dodges_left" : 1,
-            "num_blocks_bonus" : 0,
-            "num_dodges_bonus" : 0,
-            "armor_bash_bonus" : 0,
-            "armor_cut_bonus" : 0,
-            "speed" : 165,
-            "speed_bonus" : 0,
-            "dodge_bonus" : 0,
-            "block_bonus" : 0,
-            "hit_bonus" : 0,
-            "bash_bonus" : 0,
-            "cut_bonus" : 0,
-            "bash_mult" : 1.000000e+000,
-            "cut_mult" : 1.000000e+000,
-            "melee_quiet" : false,
-            "grab_resist" : 0,
-            "throw_resist" : 0,
-            "typeid" : "mon_wolf",
-            "posx" : 44,
-            "posy" : 20,
-            "wandx" : -1,
-            "wandy" : -1,
-            "wandf" : 0,
-            "hp" : 40,
-            "sp_timeout" : [
-                0
-            ],
-            "friendly" : 0,
-            "faction_id" : -1,
-            "mission_id" : -1,
-            "no_extra_death_drops" : false,
-            "dead" : false,
-            "anger" : 0,
-            "morale" : 20,
             "hallucination" : false,
             "stairscount" : 1,
             "plans" : [
@@ -475,8 +405,8 @@
             "grab_resist" : 0,
             "throw_resist" : 0,
             "typeid" : "mon_wolf",
-            "posx" : 37,
-            "posy" : 20,
+            "posx" : 43,
+            "posy" : 19,
             "wandx" : -1,
             "wandy" : -1,
             "wandf" : 0,
@@ -512,7 +442,7 @@
             "int_max" : 0,
             "per_cur" : 0,
             "per_max" : 0,
-            "moves" : -60,
+            "moves" : -20,
             "pain" : 0,
             "effects" : {
                 
@@ -532,7 +462,7 @@
             "num_dodges_bonus" : 0,
             "armor_bash_bonus" : 0,
             "armor_cut_bonus" : 0,
-            "speed" : 55,
+            "speed" : 165,
             "speed_bonus" : 0,
             "dodge_bonus" : 0,
             "block_bonus" : 0,
@@ -544,13 +474,13 @@
             "melee_quiet" : false,
             "grab_resist" : 0,
             "throw_resist" : 0,
-            "typeid" : "mon_zombie_fat",
-            "posx" : 94,
-            "posy" : 15,
+            "typeid" : "mon_wolf",
+            "posx" : 35,
+            "posy" : 19,
             "wandx" : -1,
             "wandy" : -1,
             "wandf" : 0,
-            "hp" : 95,
+            "hp" : 40,
             "sp_timeout" : [
                 0
             ],
@@ -559,8 +489,8 @@
             "mission_id" : -1,
             "no_extra_death_drops" : false,
             "dead" : false,
-            "anger" : 100,
-            "morale" : 100,
+            "anger" : 0,
+            "morale" : 20,
             "hallucination" : false,
             "stairscount" : 1,
             "plans" : [
@@ -602,6 +532,76 @@
             "num_dodges_bonus" : 0,
             "armor_bash_bonus" : 0,
             "armor_cut_bonus" : 0,
+            "speed" : 55,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_zombie_fat",
+            "posx" : 93,
+            "posy" : 16,
+            "wandx" : -1,
+            "wandy" : -1,
+            "wandf" : 0,
+            "hp" : 95,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : 100,
+            "morale" : 100,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : -30,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
             "speed" : 140,
             "speed_bonus" : 0,
             "dodge_bonus" : 0,
@@ -615,8 +615,8 @@
             "grab_resist" : 0,
             "throw_resist" : 0,
             "typeid" : "mon_squirrel",
-            "posx" : 27,
-            "posy" : 9,
+            "posx" : 25,
+            "posy" : 8,
             "wandx" : -1,
             "wandy" : -1,
             "wandf" : 0,
@@ -665,7 +665,7 @@
         "int_max" : 12,
         "per_cur" : 9,
         "per_max" : 9,
-        "moves" : 49,
+        "moves" : 25,
         "pain" : 56,
         "effects" : {
             
@@ -755,8 +755,8 @@
             "QUICK",
             "THINSKIN",
             "LIGHTSTEP",
-            "FASTREADER",
-            "NIGHTVISION"
+            "NIGHTVISION",
+            "FASTREADER"
         ],
         "skills" : {
             "barter" : {
@@ -946,7 +946,7 @@
             {
                 "type_enum" : 6,
                 "intensity" : 10,
-                "sated" : -305
+                "sated" : -309
             }
         ],
         "my_bionics" : [
@@ -1272,7 +1272,7 @@
                         "typeid" : "chili",
                         "bday" : 0,
                         "active" : true,
-                        "last_rot_check" : 6939,
+                        "last_rot_check" : 6943,
                         "components" : [
                             
                         ]
@@ -1316,7 +1316,7 @@
                         "charges" : 19,
                         "active" : true,
                         "rot" : 175,
-                        "last_rot_check" : 6932,
+                        "last_rot_check" : 6943,
                         "components" : [
                             
                         ]
@@ -1399,7 +1399,7 @@
                 "charges" : 10,
                 "active" : true,
                 "rot" : 176,
-                "last_rot_check" : 6929,
+                "last_rot_check" : 6940,
                 "components" : [
                     
                 ]
@@ -1411,7 +1411,7 @@
                 "charges" : 45,
                 "active" : true,
                 "rot" : 176,
-                "last_rot_check" : 6929,
+                "last_rot_check" : 6940,
                 "components" : [
                     
                 ]
@@ -1423,7 +1423,7 @@
                 "charges" : 10,
                 "active" : true,
                 "rot" : 176,
-                "last_rot_check" : 6929,
+                "last_rot_check" : 6940,
                 "components" : [
                     
                 ]
@@ -1435,7 +1435,7 @@
                 "charges" : 1,
                 "active" : true,
                 "rot" : 176,
-                "last_rot_check" : 6929,
+                "last_rot_check" : 6940,
                 "components" : [
                     
                 ]
@@ -1476,7 +1476,7 @@
                         "charges" : 10,
                         "active" : true,
                         "rot" : 176,
-                        "last_rot_check" : 6929,
+                        "last_rot_check" : 6940,
                         "components" : [
                             
                         ]
@@ -1493,7 +1493,7 @@
                 "charges" : 10,
                 "active" : true,
                 "rot" : 176,
-                "last_rot_check" : 6929,
+                "last_rot_check" : 6940,
                 "components" : [
                     
                 ]
@@ -1505,7 +1505,7 @@
                 "charges" : 15,
                 "active" : true,
                 "rot" : 176,
-                "last_rot_check" : 6929,
+                "last_rot_check" : 6940,
                 "components" : [
                     
                 ]
@@ -1522,7 +1522,7 @@
                         "charges" : 10,
                         "active" : true,
                         "rot" : 176,
-                        "last_rot_check" : 6929,
+                        "last_rot_check" : 6940,
                         "components" : [
                             
                         ]
@@ -1658,8 +1658,8 @@
             "QUICK",
             "THINSKIN",
             "LIGHTSTEP",
-            "FASTREADER",
-            "NIGHTVISION"
+            "NIGHTVISION",
+            "FASTREADER"
         ],
         "mutation_keys" : {
             "ADDICTIVE" : 98,
@@ -1675,32 +1675,32 @@
             "THINSKIN" : 102
         },
         "temp_cur" : [
-            4386,
-            3306,
+            4394,
+            3302,
             5000,
-            5189,
-            4752,
-            4752,
-            4327,
-            4327,
-            3695,
-            3695,
-            4767,
-            4767
+            5185,
+            4756,
+            4756,
+            4323,
+            4323,
+            3691,
+            3691,
+            4771,
+            4771
         ],
         "temp_conv" : [
-            4929,
+            4925,
             3252,
             5000,
-            5135,
-            5376,
-            5376,
-            4272,
-            4272,
-            3656,
-            3656,
-            5117,
-            5117
+            5138,
+            5374,
+            5374,
+            4273,
+            4273,
+            3657,
+            3657,
+            5115,
+            5115
         ],
         "frostbite_timer" : [
             0,
@@ -1735,7 +1735,7 @@
                 "bonus" : -5,
                 "duration" : 300,
                 "decay_start" : 30,
-                "age" : 35
+                "age" : 36
             },
             {
                 "type_enum" : 1,
@@ -1743,7 +1743,7 @@
                 "bonus" : 12,
                 "duration" : 60,
                 "decay_start" : 30,
-                "age" : 27
+                "age" : 28
             },
             {
                 "type_enum" : 21,
@@ -1751,14 +1751,14 @@
                 "bonus" : -2,
                 "duration" : 60,
                 "decay_start" : 30,
-                "age" : 27
+                "age" : 28
             },
             {
                 "type_enum" : 11,
                 "bonus" : -15,
                 "duration" : 60,
                 "decay_start" : 30,
-                "age" : 14
+                "age" : 15
             }
         ],
         "active_mission" : 0,
@@ -1772,7 +1772,7 @@
             4
         ],
         "player_stats" : {
-            "squares_walked" : 930,
+            "squares_walked" : 934,
             "damage_taken" : 316,
             "damage_healed" : 7,
             "headshots" : 5
@@ -1864,6 +1864,11 @@
             {
                 "cig" : [
                     113
+                ]
+            },
+            {
+                "cig_butt" : [
+                    83
                 ]
             },
             {
@@ -3490,12 +3495,12 @@
                 "type" : 5
             },
             {
-                "turn" : 6938,
+                "turn" : 6942,
                 "message" : "You see here 1 .45 casing.",
-                "count" : 2,
+                "count" : 5,
                 "type" : 5
             }
         ],
-        "curmes" : 6940
+        "curmes" : 6944
     }
 }
