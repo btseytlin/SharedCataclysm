@@ -1,0 +1,4448 @@
+# version 22
+{
+    "turn" : 5049,
+    "calendar_start" : 4800,
+    "last_target" : -1,
+    "run_mode" : 0,
+    "mostseen" : 0,
+    "nextspawn" : 5002,
+    "levx" : 307,
+    "levy" : 293,
+    "levz" : 0,
+    "om_x" : 0,
+    "om_y" : 0,
+    "grscent" : "0 8257 2 1 3 1 2 2 0 122 1 2 2 2 1 1 0 1 3 3 2 1 1 1 0 119 1 1 2 1 3 1 4 1 5 2 4 1 0 1 3 2 4 1 3 1 2 1 0 117 1 1 2 1 4 1 5 1 7 1 8 1 9 2 8 1 0 1 2 1 3 1 5 2 0 1 1 1 0 115 7 1 58 1 65 1 62 1 16 1 12 1 13 1 14 2 12 1 0 4 14 1 0 1 9 1 7 1 0 114 20 1 88 1 146 1 94 1 30 1 19 4 18 1 0 1 23 1 25 1 24 1 22 1 20 1 18 1 15 1 13 1 10 1 0 112 37 1 118 1 146 1 126 1 49 1 27 1 24 2 23 1 22 1 23 1 26 1 29 2 28 1 25 1 22 1 19 1 16 1 13 1 0 112 46 1 85 1 110 1 97 1 62 1 38 1 31 1 28 1 26 1 23 1 0 1 29 1 33 1 34 1 33 1 30 1 27 1 23 1 19 1 15 1 0 111 3 1 47 1 78 1 103 1 98 1 75 1 51 1 38 1 31 1 26 1 22 1 0 1 32 1 36 1 38 1 37 1 34 1 30 1 26 1 22 1 18 1 0 111 2 1 43 1 69 1 94 1 100 1 86 1 63 1 44 1 32 1 25 1 20 1 0 1 34 1 39 1 41 1 40 1 38 1 34 1 30 1 25 1 21 1 0 112 34 1 62 1 90 1 105 1 95 1 74 1 42 1 28 1 21 1 17 1 0 1 36 1 40 1 43 2 41 1 37 1 33 1 28 1 23 1 0 116 107 1 0 6 36 1 41 1 44 2 42 1 39 1 35 1 30 1 25 1 0 112 14 1 29 1 54 1 89 1 107 1 111 1 98 1 84 1 70 1 56 1 0 1 35 1 40 1 43 1 44 1 43 1 40 1 36 1 31 1 26 1 0 112 16 1 31 1 54 1 80 1 100 1 107 1 103 1 92 1 80 1 67 1 0 1 34 1 39 1 42 1 43 2 41 1 37 1 32 1 27 1 0 112 14 1 26 1 45 1 65 1 83 1 93 1 94 1 90 1 82 1 71 1 0 1 32 1 36 1 40 1 42 2 40 1 37 1 33 1 27 1 0 112 11 1 19 1 32 1 48 1 62 1 73 1 79 1 80 1 76 1 68 1 0 1 28 1 33 1 37 1 39 2 38 1 36 1 32 1 27 1 0 112 7 1 12 1 21 1 32 1 43 1 53 1 60 1 64 1 63 1 57 1 0 1 24 1 29 1 32 1 35 3 33 1 30 1 25 1 0 112 3 1 7 1 12 1 19 1 28 1 36 1 42 1 46 2 41 1 0 1 21 1 25 1 28 1 30 1 31 2 30 1 27 1 23 1 0 112 1 1 3 1 6 1 11 1 16 1 22 1 27 1 30 2 27 1 0 1 17 1 20 1 23 1 25 1 26 2 25 1 23 1 19 1 0 113 1 1 3 1 6 1 10 1 14 1 18 1 20 2 17 1 0 1 13 1 17 1 19 1 21 4 19 1 16 1 0 6650",
+    "active_monsters" : [
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : -150,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 55,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_boomer",
+            "posx" : 36,
+            "posy" : 45,
+            "wandx" : -1,
+            "wandy" : -1,
+            "wandf" : 0,
+            "hp" : 40,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : 100,
+            "morale" : 100,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : -150,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 65,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_zombie_child",
+            "posx" : 43,
+            "posy" : 14,
+            "wandx" : -1,
+            "wandy" : -1,
+            "wandf" : 0,
+            "hp" : 40,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : 60,
+            "morale" : 100,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : 0,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 70,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_zombie",
+            "posx" : 53,
+            "posy" : 30,
+            "wandx" : -1,
+            "wandy" : -1,
+            "wandf" : 0,
+            "hp" : 80,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : 100,
+            "morale" : 100,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : -100,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 70,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_shrew",
+            "posx" : 52,
+            "posy" : 102,
+            "wandx" : -1,
+            "wandy" : -1,
+            "wandf" : 0,
+            "hp" : 4,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : -99,
+            "morale" : -70,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : 0,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 20,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_spider_jumping",
+            "posx" : 64,
+            "posy" : 15,
+            "wandx" : -1,
+            "wandy" : -1,
+            "wandf" : 0,
+            "hp" : 1,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : -99,
+            "morale" : 0,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : 0,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 70,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_zombie",
+            "posx" : 69,
+            "posy" : 43,
+            "wandx" : -1,
+            "wandy" : -1,
+            "wandf" : 0,
+            "hp" : 80,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : 100,
+            "morale" : 100,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : 0,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 70,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_zombie_rot",
+            "posx" : 66,
+            "posy" : 43,
+            "wandx" : -1,
+            "wandy" : -1,
+            "wandf" : 0,
+            "hp" : 55,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : 100,
+            "morale" : 100,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : 0,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 80,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_zombie_grabber",
+            "posx" : 55,
+            "posy" : 44,
+            "wandx" : -1,
+            "wandy" : -1,
+            "wandf" : 0,
+            "hp" : 95,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : 100,
+            "morale" : 100,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : -50,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 105,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_dog_zombie_cop",
+            "posx" : 69,
+            "posy" : 53,
+            "wandx" : -1,
+            "wandy" : -1,
+            "wandf" : 0,
+            "hp" : 42,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : 100,
+            "morale" : 100,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : 0,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 70,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_zombie",
+            "posx" : 66,
+            "posy" : 116,
+            "wandx" : -1,
+            "wandy" : -1,
+            "wandf" : 0,
+            "hp" : 80,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : 100,
+            "morale" : 100,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : 0,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 90,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_skeleton",
+            "posx" : 64,
+            "posy" : 117,
+            "wandx" : -1,
+            "wandy" : -1,
+            "wandf" : 0,
+            "hp" : 30,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : 100,
+            "morale" : 100,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : -100,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 70,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_zombie",
+            "posx" : 81,
+            "posy" : 46,
+            "wandx" : -1,
+            "wandy" : -1,
+            "wandf" : 0,
+            "hp" : 80,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : 100,
+            "morale" : 100,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : -100,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 70,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_zombie",
+            "posx" : 71,
+            "posy" : 37,
+            "wandx" : -1,
+            "wandy" : -1,
+            "wandf" : 0,
+            "hp" : 80,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : 100,
+            "morale" : 100,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : 0,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 70,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_zombie",
+            "posx" : 74,
+            "posy" : 57,
+            "wandx" : -1,
+            "wandy" : -1,
+            "wandf" : 0,
+            "hp" : 80,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : 100,
+            "morale" : 100,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : 0,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 300,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_deer",
+            "posx" : 91,
+            "posy" : 56,
+            "wandx" : 72,
+            "wandy" : 63,
+            "wandf" : 0,
+            "hp" : 60,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : -99,
+            "morale" : -5,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : 0,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 20,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_spider_jumping",
+            "posx" : 75,
+            "posy" : 102,
+            "wandx" : -1,
+            "wandy" : -1,
+            "wandf" : 0,
+            "hp" : 1,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : -99,
+            "morale" : 0,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : 0,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 85,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_zombie_tough",
+            "posx" : 85,
+            "posy" : 116,
+            "wandx" : -1,
+            "wandy" : -1,
+            "wandf" : 0,
+            "hp" : 100,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : 100,
+            "morale" : 100,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : 0,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 70,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_zombie_hazmat",
+            "posx" : 96,
+            "posy" : 44,
+            "wandx" : -1,
+            "wandy" : -1,
+            "wandf" : 0,
+            "hp" : 80,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : 100,
+            "morale" : 100,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : -150,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 55,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_boomer",
+            "posx" : 93,
+            "posy" : 42,
+            "wandx" : -1,
+            "wandy" : -1,
+            "wandf" : 0,
+            "hp" : 40,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : 100,
+            "morale" : 100,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : 0,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 70,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_zombie_cop",
+            "posx" : 92,
+            "posy" : 71,
+            "wandx" : -1,
+            "wandy" : -1,
+            "wandf" : 0,
+            "hp" : 80,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : 100,
+            "morale" : 100,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : -250,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 95,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_zombie_shrieker",
+            "posx" : 93,
+            "posy" : 110,
+            "wandx" : -1,
+            "wandy" : -1,
+            "wandf" : 0,
+            "hp" : 60,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : 100,
+            "morale" : 100,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : 0,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 20,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_zombie_crawler",
+            "posx" : 106,
+            "posy" : 58,
+            "wandx" : -1,
+            "wandy" : -1,
+            "wandf" : 0,
+            "hp" : 60,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : 100,
+            "morale" : 100,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : 0,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 70,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_zombie",
+            "posx" : 113,
+            "posy" : 37,
+            "wandx" : -1,
+            "wandy" : -1,
+            "wandf" : 0,
+            "hp" : 80,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : 100,
+            "morale" : 100,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : 0,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 70,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_zombie",
+            "posx" : 107,
+            "posy" : 49,
+            "wandx" : -1,
+            "wandy" : -1,
+            "wandf" : 0,
+            "hp" : 80,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : 100,
+            "morale" : 100,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : 0,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 70,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_zombie_fireman",
+            "posx" : 114,
+            "posy" : 93,
+            "wandx" : -1,
+            "wandy" : -1,
+            "wandf" : 0,
+            "hp" : 80,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : 100,
+            "morale" : 100,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : 0,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 110,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_zombie_smoker",
+            "posx" : 111,
+            "posy" : 121,
+            "wandx" : -1,
+            "wandy" : -1,
+            "wandf" : 0,
+            "hp" : 75,
+            "sp_timeout" : [
+                1,
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : 100,
+            "morale" : 100,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : 0,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 70,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_zombie",
+            "posx" : 117,
+            "posy" : 21,
+            "wandx" : -1,
+            "wandy" : -1,
+            "wandf" : 0,
+            "hp" : 80,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : 100,
+            "morale" : 100,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : -50,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 20,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_zombie_crawler",
+            "posx" : 128,
+            "posy" : 20,
+            "wandx" : -1,
+            "wandy" : -1,
+            "wandf" : 0,
+            "hp" : 60,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : 100,
+            "morale" : 100,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : 0,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 70,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_zombie_fireman",
+            "posx" : 129,
+            "posy" : 38,
+            "wandx" : -1,
+            "wandy" : -1,
+            "wandf" : 0,
+            "hp" : 80,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : 100,
+            "morale" : 100,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : 0,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 60,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_zombie_gasbag",
+            "posx" : 118,
+            "posy" : 41,
+            "wandx" : -1,
+            "wandy" : -1,
+            "wandf" : 0,
+            "hp" : 35,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : 100,
+            "morale" : 100,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : 0,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 70,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_zombie",
+            "posx" : 117,
+            "posy" : 81,
+            "wandx" : -1,
+            "wandy" : -1,
+            "wandf" : 0,
+            "hp" : 80,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : 100,
+            "morale" : 100,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : -50,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 65,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_zombie_child",
+            "posx" : 128,
+            "posy" : 89,
+            "wandx" : -1,
+            "wandy" : -1,
+            "wandf" : 0,
+            "hp" : 40,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : 60,
+            "morale" : 100,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : 0,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 70,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_zombie",
+            "posx" : 123,
+            "posy" : 116,
+            "wandx" : -1,
+            "wandy" : -1,
+            "wandf" : 0,
+            "hp" : 80,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : 100,
+            "morale" : 100,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : -100,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 65,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_zombie_child",
+            "posx" : 126,
+            "posy" : 112,
+            "wandx" : -1,
+            "wandy" : -1,
+            "wandf" : 0,
+            "hp" : 40,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : 60,
+            "morale" : 100,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : 0,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 70,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_zombie",
+            "posx" : 124,
+            "posy" : 125,
+            "wandx" : -1,
+            "wandy" : -1,
+            "wandf" : 0,
+            "hp" : 80,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : 100,
+            "morale" : 100,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : 0,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 70,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_zombie",
+            "posx" : 126,
+            "posy" : 116,
+            "wandx" : -1,
+            "wandy" : -1,
+            "wandf" : 0,
+            "hp" : 80,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : 100,
+            "morale" : 100,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : -70,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 70,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_zombie",
+            "posx" : 18,
+            "posy" : 2,
+            "wandx" : 2,
+            "wandy" : 23,
+            "wandf" : 1,
+            "hp" : 80,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : 100,
+            "morale" : 100,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : -120,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 120,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_dog_skeleton",
+            "posx" : 17,
+            "posy" : 4,
+            "wandx" : 6,
+            "wandy" : 10,
+            "wandf" : 3,
+            "hp" : 12,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : 100,
+            "morale" : 100,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : -95,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 95,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_zombie_swimmer",
+            "posx" : 9,
+            "posy" : 14,
+            "wandx" : 9,
+            "wandy" : 14,
+            "wandf" : 11,
+            "hp" : 70,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : 100,
+            "morale" : 100,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        },
+        {
+            "str_cur" : 0,
+            "str_max" : 0,
+            "dex_cur" : 0,
+            "dex_max" : 0,
+            "int_cur" : 0,
+            "int_max" : 0,
+            "per_cur" : 0,
+            "per_max" : 0,
+            "moves" : -120,
+            "pain" : 0,
+            "effects" : {
+                
+            },
+            "values" : {
+                
+            },
+            "str_bonus" : 0,
+            "dex_bonus" : 0,
+            "per_bonus" : 0,
+            "int_bonus" : 0,
+            "healthy" : 0,
+            "healthy_mod" : 0,
+            "blocks_left" : 1,
+            "dodges_left" : 1,
+            "num_blocks_bonus" : 0,
+            "num_dodges_bonus" : 0,
+            "armor_bash_bonus" : 0,
+            "armor_cut_bonus" : 0,
+            "speed" : 20,
+            "speed_bonus" : 0,
+            "dodge_bonus" : 0,
+            "block_bonus" : 0,
+            "hit_bonus" : 0,
+            "bash_bonus" : 0,
+            "cut_bonus" : 0,
+            "bash_mult" : 1.000000e+000,
+            "cut_mult" : 1.000000e+000,
+            "melee_quiet" : false,
+            "grab_resist" : 0,
+            "throw_resist" : 0,
+            "typeid" : "mon_zombie_crawler",
+            "posx" : 3,
+            "posy" : 66,
+            "wandx" : -1,
+            "wandy" : -1,
+            "wandf" : 0,
+            "hp" : 60,
+            "sp_timeout" : [
+                0
+            ],
+            "friendly" : 0,
+            "faction_id" : -1,
+            "mission_id" : -1,
+            "no_extra_death_drops" : false,
+            "dead" : false,
+            "anger" : 100,
+            "morale" : 100,
+            "hallucination" : false,
+            "stairscount" : 1,
+            "plans" : [
+                
+            ],
+            "ammo" : {
+                
+            },
+            "inv" : [
+                
+            ]
+        }
+    ],
+    "stair_monsters" : [
+        
+    ],
+    "kills" : {
+        "mon_zombie" : 3,
+        "mon_zombie_tough" : 1
+    },
+    "player" : {
+        "str_cur" : 14,
+        "str_max" : 14,
+        "dex_cur" : 13,
+        "dex_max" : 12,
+        "int_cur" : 14,
+        "int_max" : 12,
+        "per_cur" : 13,
+        "per_max" : 11,
+        "moves" : 69,
+        "pain" : 9,
+        "effects" : {
+            
+        },
+        "values" : {
+            
+        },
+        "str_bonus" : 0,
+        "dex_bonus" : 0,
+        "per_bonus" : 2,
+        "int_bonus" : 2,
+        "healthy" : 0,
+        "healthy_mod" : 1,
+        "blocks_left" : 1,
+        "dodges_left" : 1,
+        "num_blocks_bonus" : 0,
+        "num_dodges_bonus" : 0,
+        "armor_bash_bonus" : 0,
+        "armor_cut_bonus" : 0,
+        "speed" : 100,
+        "speed_bonus" : 25,
+        "dodge_bonus" : -2,
+        "block_bonus" : 0,
+        "hit_bonus" : -2,
+        "bash_bonus" : 0,
+        "cut_bonus" : 0,
+        "bash_mult" : 1.000000e+000,
+        "cut_mult" : 1.000000e+000,
+        "melee_quiet" : false,
+        "grab_resist" : 0,
+        "throw_resist" : 0,
+        "posx" : 67,
+        "posy" : 64,
+        "hunger" : -11,
+        "thirst" : 2,
+        "fatigue" : 5,
+        "stim" : 15,
+        "pkill" : 14,
+        "radiation" : 0,
+        "scent" : 500,
+        "body_wetness" : [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "underwater" : false,
+        "oxygen" : 0,
+        "male" : true,
+        "cash" : 0,
+        "recoil" : 0,
+        "in_vehicle" : false,
+        "id" : 9,
+        "hp_cur" : [
+            102,
+            102,
+            102,
+            102,
+            96,
+            98
+        ],
+        "hp_max" : [
+            102,
+            102,
+            102,
+            102,
+            102,
+            102
+        ],
+        "power_level" : 0,
+        "max_power_level" : 0,
+        "traits" : [
+            "ADDICTIVE",
+            "TRIGGERHAPPY",
+            "TRUTHTELLER",
+            "UGLY",
+            "FASTHEALER",
+            "MYOPIC",
+            "BADHEARING",
+            "QUICK"
+        ],
+        "skills" : {
+            "barter" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "computer" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "carpentry" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "cooking" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "driving" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "electronics" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "fabrication" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "firstaid" : {
+                "level" : 0,
+                "exercise" : 5,
+                "istraining" : true,
+                "lastpracticed" : 4969
+            },
+            "mechanics" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "speech" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "survival" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "swimming" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "tailor" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "traps" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "archery" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "bashing" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "cutting" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "dodge" : {
+                "level" : 0,
+                "exercise" : 16,
+                "istraining" : true,
+                "lastpracticed" : 4901
+            },
+            "gun" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "launcher" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "melee" : {
+                "level" : 1,
+                "exercise" : 12,
+                "istraining" : true,
+                "lastpracticed" : 4903
+            },
+            "stabbing" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "throw" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "unarmed" : {
+                "level" : 1,
+                "exercise" : 5,
+                "istraining" : true,
+                "lastpracticed" : 4903
+            },
+            "pistol" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "rifle" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "shotgun" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            },
+            "smg" : {
+                "level" : 0,
+                "exercise" : 0,
+                "istraining" : true,
+                "lastpracticed" : 4800
+            }
+        },
+        "ma_styles" : [
+            
+        ],
+        "illness" : [
+            {
+                "type" : "recover",
+                "intensity" : 1,
+                "duration" : 6427,
+                "bp" : 12,
+                "permanent" : false,
+                "decay" : 0,
+                "ma_buff_id" : ""
+            },
+            {
+                "type" : "pkill1",
+                "intensity" : 1,
+                "duration" : 40,
+                "bp" : 12,
+                "permanent" : false,
+                "decay" : 0,
+                "ma_buff_id" : ""
+            }
+        ],
+        "addictions" : [
+            
+        ],
+        "my_bionics" : [
+            
+        ],
+        "known_traps" : [
+            
+        ],
+        "worn" : [
+            {
+                "invlet" : 97,
+                "typeid" : "boxer_shorts",
+                "bday" : 0,
+                "covers" : "0001100000000",
+                "item_tags" : [
+                    "FIT"
+                ],
+                "components" : [
+                    
+                ]
+            },
+            {
+                "invlet" : 98,
+                "typeid" : "jeans",
+                "bday" : 0,
+                "damage" : 2,
+                "covers" : "0001100000000",
+                "item_tags" : [
+                    "FIT"
+                ],
+                "components" : [
+                    
+                ]
+            },
+            {
+                "invlet" : 99,
+                "typeid" : "longshirt",
+                "bday" : 0,
+                "covers" : "0000000110001",
+                "item_tags" : [
+                    "FIT"
+                ],
+                "components" : [
+                    
+                ]
+            },
+            {
+                "invlet" : 100,
+                "typeid" : "socks",
+                "bday" : 0,
+                "covers" : "0110000000000",
+                "item_tags" : [
+                    "FIT"
+                ],
+                "components" : [
+                    
+                ]
+            },
+            {
+                "invlet" : 101,
+                "typeid" : "coat_winter",
+                "bday" : 0,
+                "covers" : "0000000110001",
+                "item_tags" : [
+                    "FIT"
+                ],
+                "components" : [
+                    
+                ]
+            },
+            {
+                "invlet" : 102,
+                "typeid" : "boots_winter",
+                "bday" : 0,
+                "covers" : "0110000000000",
+                "item_tags" : [
+                    "FIT"
+                ],
+                "components" : [
+                    
+                ]
+            },
+            {
+                "invlet" : 103,
+                "typeid" : "knit_scarf",
+                "bday" : 0,
+                "covers" : "0000000001000",
+                "components" : [
+                    
+                ]
+            },
+            {
+                "invlet" : 107,
+                "typeid" : "glasses_eye",
+                "bday" : 0,
+                "covers" : "0000000000100",
+                "components" : [
+                    
+                ]
+            }
+        ],
+        "inv" : [
+            {
+                "invlet" : 106,
+                "typeid" : "matches",
+                "bday" : 0,
+                "charges" : 20,
+                "components" : [
+                    
+                ]
+            },
+            {
+                "invlet" : 110,
+                "typeid" : "oxygen_tank",
+                "bday" : 0,
+                "charges" : 21,
+                "components" : [
+                    
+                ]
+            },
+            {
+                "invlet" : 104,
+                "typeid" : "pockknife",
+                "bday" : 0,
+                "components" : [
+                    
+                ]
+            },
+            {
+                "invlet" : 108,
+                "typeid" : "pear",
+                "bday" : 0,
+                "active" : true,
+                "last_rot_check" : 5042,
+                "components" : [
+                    
+                ]
+            },
+            {
+                "invlet" : 105,
+                "typeid" : "bottle_plastic",
+                "bday" : 0,
+                "contents" : [
+                    {
+                        "invlet" : 0,
+                        "typeid" : "water_clean",
+                        "bday" : 0,
+                        "charges" : 2,
+                        "active" : true,
+                        "last_rot_check" : 5042,
+                        "components" : [
+                            
+                        ]
+                    }
+                ],
+                "components" : [
+                    
+                ]
+            },
+            {
+                "invlet" : 109,
+                "typeid" : "1st_aid",
+                "bday" : 4903,
+                "charges" : 3,
+                "active" : true,
+                "last_rot_check" : 5046,
+                "components" : [
+                    
+                ]
+            },
+            {
+                "invlet" : 111,
+                "typeid" : "bottle_plastic",
+                "bday" : 0,
+                "contents" : [
+                    {
+                        "invlet" : 0,
+                        "typeid" : "disinfectant",
+                        "bday" : 0,
+                        "charges" : 4,
+                        "active" : true,
+                        "last_rot_check" : 5042,
+                        "components" : [
+                            
+                        ]
+                    }
+                ],
+                "components" : [
+                    
+                ]
+            }
+        ],
+        "profession" : "unemployed",
+        "scenario" : "infected",
+        "driving_recoil" : 0,
+        "controlling_vehicle" : false,
+        "grab_point" : [
+            0,
+            0
+        ],
+        "grab_type" : "OBJECT_NONE",
+        "focus_pool" : 65,
+        "style_selected" : "style_none",
+        "stomach_food" : 0,
+        "stomach_water" : 0,
+        "activity" : {
+            "type" : 0,
+            "moves_left" : 0,
+            "index" : -1,
+            "position" : -2147483648,
+            "name" : "",
+            "placement" : [
+                -1,
+                -1
+            ],
+            "values" : [
+                
+            ],
+            "str_values" : [
+                
+            ],
+            "auto_resume" : false
+        },
+        "backlog" : [
+            
+        ],
+        "mutations" : [
+            "ADDICTIVE",
+            "TRIGGERHAPPY",
+            "TRUTHTELLER",
+            "UGLY",
+            "FASTHEALER",
+            "MYOPIC",
+            "BADHEARING",
+            "QUICK"
+        ],
+        "mutation_keys" : {
+            "ADDICTIVE" : 98,
+            "BADHEARING" : 103,
+            "FASTHEALER" : 105,
+            "MYOPIC" : 102,
+            "QUICK" : 104,
+            "TRIGGERHAPPY" : 99,
+            "TRUTHTELLER" : 100,
+            "UGLY" : 101
+        },
+        "temp_cur" : [
+            5294,
+            4120,
+            5000,
+            4867,
+            5284,
+            5284,
+            4120,
+            4120,
+            4201,
+            4201,
+            5350,
+            5350
+        ],
+        "temp_conv" : [
+            5698,
+            3080,
+            5000,
+            4867,
+            5706,
+            5706,
+            3080,
+            3080,
+            3254,
+            3254,
+            6071,
+            6071
+        ],
+        "frostbite_timer" : [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "learned_recipes" : [
+            
+        ],
+        "items_identified" : [
+            
+        ],
+        "morale" : [
+            {
+                "type_enum" : 1,
+                "item_type" : "apple",
+                "bonus" : 3,
+                "duration" : 60,
+                "decay_start" : 30,
+                "age" : 17
+            }
+        ],
+        "active_mission" : -1,
+        "active_missions" : [
+            
+        ],
+        "completed_missions" : [
+            
+        ],
+        "failed_missions" : [
+            
+        ],
+        "player_stats" : {
+            "squares_walked" : 111,
+            "damage_taken" : 25,
+            "damage_healed" : 4,
+            "headshots" : 0
+        },
+        "invcache" : [
+            {
+                "1st_aid" : [
+                    109
+                ]
+            },
+            {
+                "apple" : [
+                    
+                ]
+            },
+            {
+                "bottle_plastic" : [
+                    105,
+                    111
+                ]
+            },
+            {
+                "matches" : [
+                    106
+                ]
+            },
+            {
+                "oxygen_tank" : [
+                    110
+                ]
+            },
+            {
+                "pear" : [
+                    108
+                ]
+            },
+            {
+                "pockknife" : [
+                    104
+                ]
+            }
+        ]
+    },
+    "player_messages" : {
+        "messages" : [
+            {
+                "turn" : 4800,
+                "message" : "Your bite wound feels infected.",
+                "count" : 1,
+                "type" : 1
+            },
+            {
+                "turn" : 4800,
+                "message" : "Spotted zombie--safe mode is on! (Press ! to turn it off or press ' to ignore monster.)",
+                "count" : 1,
+                "type" : 3
+            },
+            {
+                "turn" : 4800,
+                "message" : "Safe mode OFF!",
+                "count" : 1,
+                "type" : 4
+            },
+            {
+                "turn" : 4800,
+                "message" : "Dorethea Christianson blocks a little of the damage with their left leg!",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4800,
+                "message" : "The zombie hits Dorethea Christianson's left leg but is stopped by Dorethea Christianson's armor.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4800,
+                "message" : "Dorethea Christianson whacks the zombie for 10 damage.",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4800,
+                "message" : "Dorethea Christianson whacks the zombie for 14 damage.",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4800,
+                "message" : "Your torso wound is incredibly painful.",
+                "count" : 1,
+                "type" : 1
+            },
+            {
+                "turn" : 4801,
+                "message" : "Dorethea Christianson blocks a little of the damage with their left leg!",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4801,
+                "message" : "The zombie hits Dorethea Christianson's left leg.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4801,
+                "message" : "Dorethea Christianson hits the zombie for 3 damage.",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4803,
+                "message" : "Dorethea Christianson blocks a little of the damage with their right leg!",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4803,
+                "message" : "The zombie hits Dorethea Christianson's right leg but is stopped by Dorethea Christianson's armor.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4803,
+                "message" : "Dorethea Christianson hits the zombie for 7 damage.",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4804,
+                "message" : "Dorethea Christianson whacks the zombie for 11 damage.",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4805,
+                "message" : "You hit the zombie for 8 damage.",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4805,
+                "message" : "The zombie lunges forward!",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4805,
+                "message" : "The zombie bites your torso, but your armor protects you.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4805,
+                "message" : "Dorethea Christianson blocks a little of the damage with their right leg!",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4805,
+                "message" : "The zombie hits Dorethea Christianson's right leg.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4806,
+                "message" : "You hit the zombie for 4 damage.",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4806,
+                "message" : "You dodge the zombie.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4806,
+                "message" : "The zombie hits Dorethea Christianson's left leg but is stopped by Dorethea Christianson's armor.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4806,
+                "message" : "Dorethea Christianson whacks the zombie for 21 damage. Critical!",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4807,
+                "message" : "The zombie dies!",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4807,
+                "message" : "You hit the zombie for 9 damage.",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4807,
+                "message" : "Dorethea Christianson blocks a little of the damage with their right leg!",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4807,
+                "message" : "The zombie hits Dorethea Christianson's right leg but is stopped by Dorethea Christianson's armor.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4807,
+                "message" : "Dorethea Christianson whacks the zombie for 16 damage. Critical!",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4808,
+                "message" : "That is a floor.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4808,
+                "message" : "Never mind.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4809,
+                "message" : "Dorethea Christianson blocks a little of the damage with their right leg!",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4809,
+                "message" : "The zombie hits Dorethea Christianson's right leg but is stopped by Dorethea Christianson's armor.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4809,
+                "message" : "Dorethea Christianson whacks the zombie for 10 damage.",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4810,
+                "message" : "Dorethea Christianson whacks the zombie for 18 damage. Critical!",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4811,
+                "message" : "Dorethea Christianson blocks a little of the damage with their right leg!",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4811,
+                "message" : "The zombie hits Dorethea Christianson's right leg but is stopped by Dorethea Christianson's armor.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4812,
+                "message" : "Dorethea Christianson whacks the zombie for 12 damage.",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4813,
+                "message" : "Dorethea Christianson blocks a little of the damage with their right leg!",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4813,
+                "message" : "The zombie hits Dorethea Christianson's right leg but is stopped by Dorethea Christianson's armor.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4813,
+                "message" : "Dorethea Christianson hits the tough zombie for 6 damage.",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4814,
+                "message" : "You whack the tough zombie for 11 damage.",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4814,
+                "message" : "You hit the tough zombie for 1 damage.",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4814,
+                "message" : "Dorethea Christianson blocks a little of the damage with their right leg!",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4814,
+                "message" : "The zombie hits Dorethea Christianson's right leg.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4815,
+                "message" : "You miss.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4815,
+                "message" : "The tough zombie lunges forward!",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4815,
+                "message" : "The tough zombie bites your torso!",
+                "count" : 1,
+                "type" : 1
+            },
+            {
+                "turn" : 4815,
+                "message" : "Dorethea Christianson whacks the tough zombie for 10 damage.",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4816,
+                "message" : "Your torso encumbrance throws you off-balance.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4816,
+                "message" : "You miss.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4816,
+                "message" : "You block some of the damage with your left leg!",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4816,
+                "message" : "Your jeans (fits) is ripped!",
+                "count" : 1,
+                "type" : 1
+            },
+            {
+                "turn" : 4816,
+                "message" : "The tough zombie hits your left leg.",
+                "count" : 1,
+                "type" : 1
+            },
+            {
+                "turn" : 4816,
+                "message" : "Dorethea Christianson blocks a little of the damage with their left leg!",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4816,
+                "message" : "The zombie hits Dorethea Christianson's left leg.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4816,
+                "message" : "Dorethea Christianson hits the tough zombie for 11 damage. Critical!",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4817,
+                "message" : "You whack the tough zombie for 9 damage.",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4817,
+                "message" : "Dorethea Christianson blocks a little of the damage with their right leg!",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4817,
+                "message" : "The zombie hits Dorethea Christianson's right leg but is stopped by Dorethea Christianson's armor.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4818,
+                "message" : "You whack the tough zombie for 11 damage.",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4818,
+                "message" : "You block some of the damage with your right leg!",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4818,
+                "message" : "The tough zombie hits your right leg.",
+                "count" : 1,
+                "type" : 1
+            },
+            {
+                "turn" : 4818,
+                "message" : "Dorethea Christianson whacks the tough zombie for 9 damage.",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4819,
+                "message" : "You whack the tough zombie for 12 damage.",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4819,
+                "message" : "You block some of the damage with your left leg!",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4819,
+                "message" : "Your ripped jeans (fits) is ripped further!",
+                "count" : 1,
+                "type" : 1
+            },
+            {
+                "turn" : 4819,
+                "message" : "The tough zombie hits your left leg.",
+                "count" : 1,
+                "type" : 1
+            },
+            {
+                "turn" : 4819,
+                "message" : "Dorethea Christianson blocks a little of the damage with their right leg!",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4819,
+                "message" : "The zombie hits Dorethea Christianson's right leg.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4819,
+                "message" : "Dorethea Christianson whacks the tough zombie for 9 damage.",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4820,
+                "message" : "The tough zombie dies!",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4820,
+                "message" : "You whack the tough zombie for 12 damage.",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4820,
+                "message" : "Dorethea Christianson blocks a little of the damage with their left leg!",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4820,
+                "message" : "The zombie hits Dorethea Christianson's left leg.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4821,
+                "message" : "There are 6 items here.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4822,
+                "message" : "That is a floor.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4822,
+                "message" : "Never mind.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4822,
+                "message" : "Dorethea Christianson hits the zombie for 8 damage.",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4823,
+                "message" : "The zombie dies!",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4823,
+                "message" : "You whack the zombie for 12 damage.",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4824,
+                "message" : "That is a floor.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4824,
+                "message" : "Never mind.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4824,
+                "message" : "There are many items here.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4838,
+                "message" : "The corpse is thoroughly pulped.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4856,
+                "message" : "The corpse is thoroughly pulped.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4856,
+                "message" : "There are 4 items here.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4857,
+                "message" : "Invalid direction.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4857,
+                "message" : "There are 6 items here.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4860,
+                "message" : "That is a floor.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4860,
+                "message" : "Never mind.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4873,
+                "message" : "That is a refrigerator.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4874,
+                "message" : "You pick up: 1 apple (fresh)",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4874,
+                "message" : "You pick up: 1 pear (fresh)",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4875,
+                "message" : "You eat your apple (fresh).",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4889,
+                "message" : "From the southwest you hear whump!",
+                "count" : 1,
+                "type" : 3
+            },
+            {
+                "turn" : 4890,
+                "message" : "From the southwest you hear glass breaking!",
+                "count" : 1,
+                "type" : 3
+            },
+            {
+                "turn" : 4891,
+                "message" : "Spotted zombie--safe mode is on! (Press ! to turn it off or press ' to ignore monster.)",
+                "count" : 3,
+                "type" : 3
+            },
+            {
+                "turn" : 4891,
+                "message" : "Safe mode OFF!",
+                "count" : 1,
+                "type" : 4
+            },
+            {
+                "turn" : 4894,
+                "message" : "From the south you hear whump!",
+                "count" : 3,
+                "type" : 3
+            },
+            {
+                "turn" : 4896,
+                "message" : "You see here 1 long string.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4897,
+                "message" : "You whack the zombie for 12 damage.",
+                "count" : 2,
+                "type" : 0
+            },
+            {
+                "turn" : 4898,
+                "message" : "You hit the zombie for 8 damage.",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4899,
+                "message" : "You whack the zombie for 13 damage.",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4900,
+                "message" : "You whack the zombie for 16 damage.",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4901,
+                "message" : "Your skill in melee has increased to 1!",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4901,
+                "message" : "You hit the zombie for 5 damage.",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4901,
+                "message" : "The zombie lunges forward!",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4901,
+                "message" : "The zombie bites your torso, but your armor protects you.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4902,
+                "message" : "Your skill in unarmed combat has increased to 1!",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4902,
+                "message" : "You hit the zombie for 7 damage.",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4902,
+                "message" : "You block some of the damage with your left arm!",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4902,
+                "message" : "The zombie hits your left arm, but your armor protects you.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4903,
+                "message" : "The zombie dies!",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4903,
+                "message" : "You hit the zombie for 8 damage.",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4905,
+                "message" : "Moving past this empty window is slow!",
+                "count" : 1,
+                "type" : 3
+            },
+            {
+                "turn" : 4907,
+                "message" : "That is a grass.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4908,
+                "message" : "You pick up: 2 first aid kits",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4969,
+                "message" : "You disinfect the wound.",
+                "count" : 1,
+                "type" : 0
+            },
+            {
+                "turn" : 4969,
+                "message" : "You finish using the first aid kit.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4970,
+                "message" : "You see here 1 oxygen tank (24) and 2 first aid kits.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4972,
+                "message" : "That is a floor.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4973,
+                "message" : "You pick up: 2 first aid kits",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4973,
+                "message" : "You pick up: 1 oxygen tank",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4974,
+                "message" : "You breathe deeply from the oxygen tank",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4979,
+                "message" : "You breathe deeply from the oxygen tank",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4983,
+                "message" : "You breathe deeply from the oxygen tank",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4987,
+                "message" : "Never mind.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4987,
+                "message" : "That is a floor.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4987,
+                "message" : "Never mind.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4987,
+                "message" : "You see here 1 plastic bottle and 1 pair of scissors.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4988,
+                "message" : "That is a floor.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4988,
+                "message" : "Never mind.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4988,
+                "message" : "That is a floor.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4988,
+                "message" : "Never mind.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4988,
+                "message" : "That is a floor.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4988,
+                "message" : "Never mind.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4988,
+                "message" : "That is a floor.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4988,
+                "message" : "Never mind.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4988,
+                "message" : "You see here 1 gallon jug of ammonia (30).",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4989,
+                "message" : "That is a floor.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4989,
+                "message" : "Never mind.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4989,
+                "message" : "That is a floor.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4989,
+                "message" : "Never mind.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4990,
+                "message" : "You see here 1 gallon jug of ammonia (30).",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4991,
+                "message" : "That is a bathtub.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4991,
+                "message" : "Never mind.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4991,
+                "message" : "That is a bathtub.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4992,
+                "message" : "You pick up: 1 plastic bottle of disinfectant",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4992,
+                "message" : "That is a bathtub.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4992,
+                "message" : "It is empty.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4992,
+                "message" : "Unknown command: '\u001B'",
+                "count" : 1,
+                "type" : 4
+            },
+            {
+                "turn" : 4992,
+                "message" : "You see here 1 saline eye drop (10), 1 long string, and 1 pair of rubber boots.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4993,
+                "message" : "That is a bathtub.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 4993,
+                "message" : "Never mind.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 5002,
+                "message" : "Moving past this bed is slow!",
+                "count" : 2,
+                "type" : 3
+            },
+            {
+                "turn" : 5010,
+                "message" : "That is a dresser.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 5010,
+                "message" : "Never mind.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 5029,
+                "message" : "There are 4 items here.",
+                "count" : 1,
+                "type" : 5
+            },
+            {
+                "turn" : 5036,
+                "message" : "Moving past this counter is slow!",
+                "count" : 1,
+                "type" : 3
+            },
+            {
+                "turn" : 5044,
+                "message" : "There are 4 items here.",
+                "count" : 1,
+                "type" : 5
+            }
+        ],
+        "curmes" : 5049
+    }
+}

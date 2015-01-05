@@ -1,8 +1,8 @@
 # version 22
 {
-    "next_mission_id" : 5,
+    "next_mission_id" : 6,
     "next_faction_id" : 1,
-    "next_npc_id" : 9,
+    "next_npc_id" : 11,
     "active_missions" : [
         {
             "type_id" : 11,
@@ -95,6 +95,29 @@
             "bad_fac_id" : -1,
             "step" : 0,
             "follow_up" : 0
+        },
+        {
+            "type_id" : 19,
+            "description" : "",
+            "failed" : false,
+            "value" : 140000,
+            "reward" : {
+                "type" : 0,
+                "value" : 0,
+                "itype_id" : "null"
+            },
+            "uid" : 5,
+            "target" : [
+                -2147483648,
+                -2147483648
+            ],
+            "item_count" : 1,
+            "deadline" : 0,
+            "npc_id" : 10,
+            "good_fac_id" : -1,
+            "bad_fac_id" : -1,
+            "step" : 0,
+            "follow_up" : 20
         }
     ],
     "factions" : [
