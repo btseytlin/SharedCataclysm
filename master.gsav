@@ -2,7 +2,7 @@
 {
     "next_mission_id" : 12,
     "next_faction_id" : 1,
-    "next_npc_id" : 17,
+    "next_npc_id" : 18,
     "active_missions" : [
         {
             "type_id" : 11,
