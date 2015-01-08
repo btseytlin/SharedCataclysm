@@ -29,7 +29,7 @@ INITIAL_TIME 8
 
 #If true, the game will randomly spawn NPC during gameplay.
 #Default: False
-RANDOM_NPC true
+RANDOM_NPC false
 
 #Season length, in days.
 #Default: 14 - Min: 14, Max: 127
@@ -41,7 +41,7 @@ INITIAL_SEASON spring
 
 #If true, the game will spawn static NPC at the start of the game, requires world reset.
 #Default: False
-STATIC_NPC true
+STATIC_NPC false
 
 #Delete the world when the last active character dies.
 #Default: No - Values: No, Yes, Query
