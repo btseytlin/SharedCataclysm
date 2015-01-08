@@ -5,7 +5,7 @@ cd %cataPath%
 git add maps/*
 git add o.*
 git commit -m "%commitmsg%"
-git pull -X ours
+git pull
 git push -u origin master
 
 pause
