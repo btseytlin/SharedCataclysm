@@ -1,6 +1,6 @@
 set cataPath = C:\games\Cataclysm\save\SharedCataclysm
 
 cd %cataPath%
-git pull
+git pull --strategy-option ours
 
 pause
